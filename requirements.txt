@@ -1,0 +1,8 @@
+pillow
+numpy
+psd-tools[composite]
+scipy
+aggdraw
+# optional
+psutil          # memory numbers in probe_psds.py
+pillow-heif     # lets pin_planner.py read iPhone .heic photos

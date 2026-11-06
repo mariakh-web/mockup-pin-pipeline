@@ -1,0 +1,26 @@
+# Inputs and outputs live on your machine, not in the repo
+artworks/
+mockups/
+pins_in/
+output/
+pin_out/
+
+# Purchased / third-party templates
+*.psd
+*.psb
+
+# Per-user state and generated files
+pin_config.json
+pin_scenes.csv
+pin_metadata.csv
+listing_links.csv
+planner_state.json
+template_settings.json
+publer_*.csv
+pin_label_sheet_*.jpg
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
