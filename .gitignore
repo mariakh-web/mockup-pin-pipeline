@@ -24,3 +24,9 @@ __pycache__/
 *.pyc
 .venv/
 venv/
+# Secrets and local configuration
+.env
+.env.*
+*.key
+*.pem
+secrets.json
